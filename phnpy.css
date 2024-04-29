@@ -1,0 +1,280 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    height: 30px;
+    position: sticky;
+    background-color: aquamarine;
+}
+#navigate{
+    display: flex;
+    height: 100px;
+   
+}
+li{
+
+    list-style: none;
+    margin-left: 60px;
+    padding: 15px 15px 15px 10px;
+    color: black;
+    margin-top: 20px;
+}
+.phn{
+    
+    margin-left: 50px;
+    height: 70px;
+    width: 120px;
+    margin-top: -30px;
+}   
+#h1{
+    position: relative;
+    z-index: -1;
+    width: 100%;
+}
+#container{
+    margin-top: -300px;
+    color: solid red;
+    margin-left: 200px;
+    font-size:  40px;
+    font-style: normals;
+    
+}
+#line1{
+    color: rgb(181, 120, 181);
+}
+#line2{
+    color: white;
+}
+#line3{
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 30px;
+    background-color: white;
+    width: 280px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 15px;
+
+
+}
+#line3:hover{
+    background-color: black;
+    color: white;
+    transition: 5s;
+   
+}
+#sec{
+    margin-top: 150px;
+    width: 100%;
+    
+}
+#ht{
+    display: flex;
+}
+#graph{
+    margin-top: 150px;
+    margin-left: 200px
+
+}
+#para1{
+    color: rgb(16, 16, 106);
+    font-size: 3em;
+    font-style: normal;
+    
+    
+}
+#video{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+#cent{
+    width: 800px;
+    height: 200px;
+    margin-top: 50px;
+}
+#cent2{
+    width: 200px;
+    height: 100px;
+}
+#cent3{
+    /* margin-left: 50px; */
+    position: relative;
+    margin-left: 150px;
+}
+#cent4{
+    position: absolute;
+    margin-left: -300px;
+}
+#cent5{
+    position: absolute;
+    margin-left: -180px;
+
+}
+    
+#cent6{
+    z-index: -1;
+    margin-left: 20px;
+    position: absolute;
+}
+#cent7{
+    margin-left: 900px;   
+    z-index: -1;
+    margin-top: -900px;
+}
+#cent5:hover{
+    color: white;
+}
+#watch{
+    border: 2px solid rgb(103, 44, 146);
+    color:  rgb(103, 44, 146);;
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    padding-top: 7px;
+}
+#br{
+    font-size: larger;
+    color: rgba(0, 0, 0, 0.871);
+
+}
+#br1{
+    margin-top: 9px;
+    font-size: larger;
+    color: rgba(0, 0, 0, 0.871);
+}
+#br2{
+    margin-top: 9px;
+    font-size: larger;
+    color: rgba(0, 0, 0, 0.871);
+}
+#br3{
+    margin-top: 9px;
+    font-size: large9
+    color:  rgb(103, 44, 146);;
+}
+#tag{
+    width: 80%;
+    border: 2px solid rgb(103, 44, 146);
+    height: 350px;
+    border-radius: 25px;
+    background-color: rgb(103, 44, 146);
+    margin-top: 160px;
+
+}
+#tag1{
+    margin-left: -900px;
+    height: 250px;
+    width: 250px;
+    margin-top: 40px;
+}
+#tag2{
+    margin-top: -250px;
+    font-size: 3em;
+    color: white;
+}
+#tag3{
+    margin-left: 60px;
+    color: white;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#tag4{
+    margin-left: -90px;
+    margin-top: -10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#iuuu{display: flex;margin-top: -100px;}
+
+#iu{margin-left: 200px;}
+#tag5{height: 10px;}
+#tag6{height: 10px;}
+#art0{
+    margin-top: 100px;
+}
+#art{
+    font-size: 3em;
+    color: rgb(39, 2, 66);
+    
+}
+#art1{
+    margin-top: 70px;
+    border: 2px solid rgb(43, 138, 233);
+    height: 40px;
+    width: 290px;
+    padding-top: 20px;
+    font-size: 1em;
+    border-radius: 30px;
+    background-color:rgb(43, 138, 233);
+    color: white;
+}
+#con{
+    margin-top: 100px;
+}
+#all{
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+#qr0{
+    margin-left: 980px;
+    margin-top: -500px;
+}
+#qr{
+    font-size: 3em;
+    color: rgb(39, 2, 66);
+
+}
+#qr1{
+    margin-top: 30px;
+    color: black;
+    font-size: 2em;
+    
+}
+#qr2{
+   margin-top: 30px;
+   font-size: 2em;
+   color: rgb(103, 44, 146);
+}
+#qr3{
+    margin-top: 30px;
+   font-size: 2em;
+   color: rgb(103, 44, 146);
+}
+#qr4{
+    
+    margin-top: 30px;
+   font-size: 2em;
+   color: rgb(103, 44, 146);
+}
+#qr5{
+margin-top: 30px;
+font-size: 2em;
+color: rgb(103, 44, 146);
+}
+.line{
+    margin-top: 30px;
+
+}
+#clr{
+    background-color: rgb(148, 97, 184);
+    width: 100%;
+    height: 400px;
+    margin-top: 100px;
+    position: relative;
+    z-index: -1;
+}
+#clr1{
+margin-top: -200px;
+
+}
+.line1{
+    /* margin-top: -300px; */
+    /* z-index: 1; */
+
+    
+
+}
